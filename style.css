@@ -1,0 +1,82 @@
+li {
+	list-style-type: none;
+}
+
+.title {
+	color: #2BAAE1;
+}
+
+.fa {
+	color: #2BAAE1;
+	font-size: 74%;
+}
+
+.infoSize {
+	font-size: 85%;
+}
+
+.education {
+	color: #2BAAE1;
+	text-decoration: underline;
+}
+
+.experience {
+	color: #2BAAE1;
+	text-decoration: underline;
+}
+
+.company {
+	color: #2BAAE1;
+}
+
+body {
+
+	background-repeat: no-repeat;
+}
+
+span {
+}
+
+.battery {
+	font-size: 110%;
+}
+
+.comcast {
+	padding-top: 40px;
+}
+
+.edu {
+	padding-bottom: 15px;
+}
+
+.str {
+	padding-top: 30px;
+}
+
+.lan {
+	padding-top: 30px;
+}
+
+.chev {
+	color: black;
+}
+
+.lifeStyle {
+	padding-top: 30px;
+}
+
+.dev {
+	font-size: 85%;
+}
+
+.lifeIcons {
+	font-size: 145%;
+}
+
+.rebel {
+	color: #f44336;
+}
+
+.slash {
+	color: #2BAAE1;
+}
